@@ -1,0 +1,3 @@
+publisher_cpp:
+  ros__parameters:
+    publishing_interval: 0.5
